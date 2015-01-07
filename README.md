@@ -1,4 +1,4 @@
-Ardomter
+Ardometer
 ========
 
 Arduino based Odometer
